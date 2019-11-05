@@ -1,0 +1,36 @@
+.example-card {
+  margin: 10px 0px;
+  background: #2f2a32;
+  color: #f4eff6;
+}
+
+.example-header {
+  font-size: 24px;
+  ∏font-weight: bold;
+  border-bottom: 1px solid #e1e8ed;
+  padding-bottom: 5px;
+  margin-bottom: 10px;
+}
+
+.bp3-button {
+  margin: 0 5px;
+  opacity: 0.85;
+}
+.bp3-button:hover {
+  opacity: 1;
+}
+
+.bp3-button.bp3-intent-primary,
+.bp3-button.bp3-intent-primary:hover {
+  background-color: #266dcc;
+}
+
+.bp3-button.bp3-intent-warning,
+.bp3-button.bp3-intent-warning:hover {
+  background-color: #811cb6;
+}
+
+.bp3-button.bp3-intent-danger,
+.bp3-button.bp3-intent-danger:hover {
+  background-color: #dd5781;
+}
